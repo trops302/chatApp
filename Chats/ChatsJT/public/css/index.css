@@ -1,0 +1,79 @@
+body{
+  background: lightgray;
+  overflow-y: scroll; 
+}
+ 
+  h2 {
+    margin-top: 50px;
+    font-family: monospace;
+  }
+  
+  .enter-name {
+    margin-bottom: 1rem;
+    
+  }
+  #name-input{
+    border: 5px solid darkorange;
+    border-radius: 10px;
+    font-family: monospace;
+  
+  }
+
+  .chat-window {
+    height: 400px;
+    
+    border: 5px solid darkorange;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 1rem;
+    overflow-y: scroll;
+    border-radius: 5px;
+    
+    
+  }
+  .class-form-control{
+    border-color: darkorange;
+    border-radius: 5px;
+  }
+  
+  #chat-input{
+    border: 5px solid darkorange;
+    border-radius: 10px;
+    color: black;
+    font-family: monospace;
+  }
+  
+  #messages {
+    padding: none;
+  }
+  
+  .msg {
+    margin-bottom: 10px;
+  }
+  
+  .member-name, .new-member {
+    font-weight: bolder;
+    color: darkorange;
+    font-style: italic;
+    font-family: monospace;
+    font-size: 30px;
+  }
+
+  button{
+    background: darkorange;
+    font-family: monospace;
+   
+   
+    height: 50px;
+    border-radius: 10px;
+
+    
+    box-shadow: 100px;
+    
+  }
+  
+  
+
+
+ 
+  
